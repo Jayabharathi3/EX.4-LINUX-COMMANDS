@@ -258,6 +258,3 @@ Output:
 
 Thus basis of UNIX commands are studied and executed.
 
-
-
-RESULT:
